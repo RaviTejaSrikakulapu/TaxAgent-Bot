@@ -7,6 +7,7 @@ Develop an AI-powered solution to enhance the efficiency and effectiveness of ta
 
  Provide basic information on tax laws and regulations
 
-[![Watch the video](https://raw.githubusercontent.com/RaviTejaSrikakulapu/TaxAgent-Bot/main/Capture.png)(https://raw.githubusercontent.com/RaviTejaSrikakulapu/TaxAgent-Bot/main/Tax_Agent_Bot.mp4)]
+[![Watch the video](https://raw.githubusercontent.com/RaviTejaSrikakulapu/TaxAgent-Bot/main/Capture.png)]
+(https://raw.githubusercontent.com/RaviTejaSrikakulapu/TaxAgent-Bot/main/Tax_Agent_Bot.mp4)
 
 
