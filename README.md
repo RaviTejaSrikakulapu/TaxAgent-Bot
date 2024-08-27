@@ -7,6 +7,8 @@ Develop an AI-powered solution to enhance the efficiency and effectiveness of ta
 
  Provide basic information on tax laws and regulations
 
-https://github.com/user-attachments/assets/bd777e41-e707-4639-86ee-8050647afebd
+https://github.com/user-attachments/assets/9ce9594b-6e60-44ee-893c-6cd827dce962
+
+
 
 
